@@ -1,0 +1,126 @@
+@font-face{
+    font-family: 'fatlove';
+    src: url(../fonts/Fat\ Inlove\ -\ Personal\ Use.otf);
+
+}
+@font-face{
+    font-family: 'pushter';
+    src: url(../fonts/Pushster-Regular.ttf);
+
+}
+@font-face{
+    font-family: 'abril';
+    src: url(../fonts/AbrilFatface-Regular.ttf);
+
+}
+@font-face{
+    font-family: 'pfair';
+    src: url(../fonts/PlayfairDisplay-VariableFont_wght.ttf);
+
+}
+
+.resizenumber5{
+    width: 50%;
+    height: 10%;
+}
+.logo{
+    color: black;
+    font-size: 68px;
+    font-family: pushter;
+}
+.nav{
+    padding-top: 30px;
+    text-align: right;
+    
+}
+.fq{
+    padding-top: 60px;
+}
+.aleft{
+    text-align: left;
+}
+.acenter{
+    text-align: center;
+}
+.ajustify{
+    text-align: justify;
+}
+.aright{
+    text-align: right;
+}
+.fa{
+    padding-top: 5em;
+}
+.ti{
+    text-indent: 70px;
+}
+.ptop{
+    padding-top: 50px;
+}
+.pbottom{
+    padding-bottom: 50px;
+}
+.fontpfair{
+    font-family: pfair;
+}
+.fontabril{
+    font-family: abril;
+}
+
+.if1bckgrnd{
+    padding-top: 25px;
+    background: url(../images/hedgehog-468228_1920.jpg);
+    background-size: cover;
+    height: 40em;
+    text-align: center;
+    
+}
+.if2bckgrnd{
+    padding-top: 25px;
+    background: url(../images/guinea-pig-2513177_1920.jpg);
+    background-size: cover;
+    height: 40em;
+    text-align: center;
+    color: whitesmoke;
+}
+.if3bckgrnd{
+    padding-top: 25px;
+    background: url(../images/cute-3160464_1920.jpg);
+    background-size: cover;
+    height: 40em;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.lifespan{
+    padding-top:26px;
+}
+
+.reg{
+    padding-top: 60px;
+    padding-bottom: 5px;
+}
+.regis{
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.header{
+    background-image: url(../images/layer-g3e4ac73f3_1920.jpg);
+    background-color: whitesmoke;
+}
+
+.footfort{
+    padding-top: 5px;
+    background-color: whitesmoke;
+  
+}
+.signup{
+    padding-bottom: 60px;
+}
+
+.gtn{
+    padding-top: 75px;
+    padding-bottom: 150px;
+}
